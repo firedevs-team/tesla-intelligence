@@ -1,6 +1,7 @@
 import { ConfigProvider, Layout, Menu, theme } from "antd";
 import { Link, Route, Routes, useNavigate } from "react-router";
 import { ChinaPage, EuropePage, HomePage } from "./pages";
+import logo from "./assets/logo.svg";
 import styles from "./App.module.css";
 const { Header, Footer } = Layout;
 
@@ -18,7 +19,7 @@ const App: React.FC = () => {
         <Header style={{ display: "flex", alignItems: "center" }}>
           <Link to="/">
             <img
-              src="/src/assets/logo.svg"
+              src={logo}
               alt="Tesla Intelligence Logo"
               className={styles.logo}
             />
