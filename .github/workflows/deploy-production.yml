@@ -1,0 +1,22 @@
+# This file deploys to Firebase Hosting production when a tag is created on main
+# https://github.com/firebase/firebase-tools
+
+name: Deploy to Firebase Hosting Production on Tag
+on:
+  push:
+    tags:
+      - "v*.*.*" # Matches tags like v1.0.0, v2.3.1, etc.
+permissions:
+  contents: read
+jobs:
+  build_and_deploy_production:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm ci && npm run build
+      - uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_TESLA_INTELLIGENCE_5205D }}
+          projectId: tesla-intelligence-5205d
+          # No channelId specified, so it deploys to production
