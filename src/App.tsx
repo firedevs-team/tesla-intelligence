@@ -1,13 +1,11 @@
 import { ConfigProvider, Layout, Menu, theme } from "antd";
-import { Link, Route, Routes, useNavigate } from "react-router";
-import { ChinaPage, EuropePage, HomePage } from "./pages";
-import logo from "./assets/logo.svg";
+import { Link, Navigate, Route, Routes } from "react-router";
 import styles from "./App.module.css";
-const { Header, Footer } = Layout;
+import logo from "./assets/logo.svg";
+import { HomePage } from "./pages";
+const { Header } = Layout;
 
 const App: React.FC = () => {
-  let navigate = useNavigate();
-
   return (
     <ConfigProvider
       theme={{
@@ -28,43 +26,16 @@ const App: React.FC = () => {
             theme="dark"
             mode="horizontal"
             defaultSelectedKeys={["home"]}
-            items={[
-              {
-                key: "home",
-                label: "Home",
-                onClick: () => {
-                  navigate("/");
-                },
-              },
-              {
-                key: "china",
-                label: "China",
-                onClick: () => {
-                  navigate("/china");
-                },
-              },
-              {
-                key: "europe",
-                label: "Europe",
-                onClick: () => {
-                  navigate("/europe");
-                },
-              },
-            ]}
+            items={[]}
             style={{ flex: 1, minWidth: 0 }}
           />
         </Header>
         <Layout>
           <Routes>
             <Route index element={<HomePage />} />
-            <Route path="china" element={<ChinaPage />} />
-            <Route path="europe" element={<EuropePage />} />
+            <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </Layout>
-        <Footer style={{ textAlign: "center" }}>
-          Create with ❤️ by{" "}
-          <a href="https://github.com/firedevs-team">Firedevs</a>
-        </Footer>
       </Layout>
     </ConfigProvider>
   );
