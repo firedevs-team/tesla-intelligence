@@ -1,0 +1,6458 @@
+[
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 53875
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "USA",
+    "country": "USA",
+    "total": 60325
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "USA",
+    "country": "USA",
+    "total": 58859
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 56887
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "USA",
+    "country": "USA",
+    "total": 56785
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "USA",
+    "country": "USA",
+    "total": 59635
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 58142
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "USA",
+    "country": "USA",
+    "total": 58432
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "USA",
+    "country": "USA",
+    "total": 51451
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 50666
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "USA",
+    "country": "USA",
+    "total": 51100
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "USA",
+    "country": "USA",
+    "total": 56481
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 53830
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "USA",
+    "country": "USA",
+    "total": 54045
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "USA",
+    "country": "USA",
+    "total": 50467
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 47300
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "USA",
+    "country": "USA",
+    "total": 51635
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "USA",
+    "country": "USA",
+    "total": 54208
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 53002
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "USA",
+    "country": "USA",
+    "total": 53160
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 53175
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "USA",
+    "country": "USA",
+    "total": 51513
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "USA",
+    "country": "USA",
+    "total": 57700
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 48500
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "USA",
+    "country": "USA",
+    "total": 43650
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "USA",
+    "country": "USA",
+    "total": 44835
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 373
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 853
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 1487
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 410
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 848
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 924
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 366
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 880
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 598
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 339
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 752
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 587
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 391
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 876
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 1239
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 387
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 499
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 1050
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 245
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 398
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 961
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 273
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 440
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 235
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 227
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 262
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 815
+  },
+  {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "AUSTRIA",
+    "total": 124
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 499
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 1051
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 3675
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 932
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 1431
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 2827
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 830
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 1390
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 2425
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 780
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 2427
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 4069
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 763
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 1071
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 1724
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 549
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 1066
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 3337
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 706
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 813
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 1853
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 721
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 1054
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 2377
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 447
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 509
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "DENMARK",
+    "total": 593
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 49
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 382
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 897
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 226
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 532
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 899
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 120
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 573
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 1202
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 149
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 432
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 677
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 169
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 238
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 487
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 128
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 304
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 479
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 59
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 312
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 456
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 145
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 323
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 617
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 58
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 122
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 295
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 741
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 3376
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 8710
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 1824
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 4012
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 8516
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 2718
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 5365
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 5557
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 3262
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 9389
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 9572
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 3118
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 3244
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 4998
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 2128
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 2197
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 4053
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 1780
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 2523
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 5435
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 1741
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 3773
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 5719
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 1141
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 2395
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 3157
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 4241
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 7710
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 8703
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 2420
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 5265
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 8043
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 3904
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 6903
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 4216
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 3353
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 4923
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 4001
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 3152
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 6038
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 3878
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 1637
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 1896
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 4648
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 2470
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 2370
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 3758
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 1614
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 2208
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 3905
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 1277
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 1429
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GERMANY",
+    "total": 2229
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 5
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 172
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 443
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 91
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 369
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 425
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 79
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 285
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 328
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 176
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 627
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 547
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 12
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 24
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 51
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 23
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 36
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 78
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 29
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 43
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 53
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 74
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 53
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 87
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 41
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 41
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 241
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 1
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 1
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 676
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 224
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 232
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 1035
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 41
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 352
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 402
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 118
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 152
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 137
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 66
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 346
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 418
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 18
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 237
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 511
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 203
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 365
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 254
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 38
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 233
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 237
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 143
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 396
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 333
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 326
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 1313
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 2911
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 740
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 1477
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 1751
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 478
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 2129
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 906
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 908
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 2710
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 983
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 404
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 1851
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 1465
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 345
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 1073
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 4993
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 474
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 435
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 1949
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 484
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 808
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 1360
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 408
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 843
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 2217
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 591
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 725
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 3160
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 767
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1267
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 2717
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 757
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1992
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1872
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1083
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 2112
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 2385
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1610
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1287
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 3957
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1462
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1660
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 3471
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1180
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1547
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 3884
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1238
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 2881
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 5905
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 927
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 983
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 1536
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 21
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 1551
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 7899
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 977
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 2949
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 3450
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 220
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 1704
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 2500
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 678
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 1688
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 1768
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 1109
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 1778
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 2234
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 873
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 832
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 3672
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 457
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 2485
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 4210
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 1348
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 2258
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 3003
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 689
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 917
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 2211
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 53
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 260
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 733
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 310
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 387
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 574
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 202
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 508
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 367
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 256
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 555
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 429
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 201
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 432
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 631
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 249
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 367
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 838
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 179
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 172
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 587
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 184
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 229
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 392
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 103
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 194
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "POLAND",
+    "total": 602
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 230
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 876
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 990
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 282
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 867
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 862
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 496
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 1167
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 354
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 256
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 1765
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 1183
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 549
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 1155
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 1184
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 451
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 906
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 1225
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 551
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 181
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 1025
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 349
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 801
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 1383
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 389
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 547
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 1209
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 225
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 518
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 3940
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 742
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 2477
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 3034
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 492
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1717
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 3164
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 721
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1512
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1789
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 730
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1058
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 2524
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1051
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1086
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 2745
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1146
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1348
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 4792
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1175
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 1446
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 2795
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 405
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 613
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 911
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 115
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 195
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 1252
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 475
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 919
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 1374
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 453
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 795
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 991
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 310
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 792
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 1086
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 327
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 1003
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 1934
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 450
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 521
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 962
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 368
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 629
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 1048
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 260
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 536
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 892
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 327
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 248
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 663
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 579
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 2283
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 10493
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 1813
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 3439
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 7533
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 3141
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 4021
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 6427
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 2677
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 1648
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 5517
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 1581
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 3192
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 6995
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 1352
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 3152
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 6757
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 2462
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 3013
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 7656
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 971
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 4558
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 8645
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 1458
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 3852
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "UK",
+    "total": 7164
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 357
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 671
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1046
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 318
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1160
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1752
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 743
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1456
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 727
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 754
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 2470
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1788
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1094
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1020
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1487
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 893
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1112
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1638
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 551
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 549
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 2894
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 566
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1669
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 3217
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 268
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 918
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 1983
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 609
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 812
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 3045
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 868
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 995
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1868
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1235
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1505
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1128
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1104
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1460
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1383
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1826
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 2272
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 3121
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1276
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1261
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 2505
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1088
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1247
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 2013
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1373
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1691
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1509
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1008
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 1053
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 958
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 43
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 98
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 336
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 53
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 242
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 105
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 32
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 131
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 333
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 127
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 98
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 243
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 57
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 262
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 184
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 175
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 97
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 236
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 132
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 112
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 294
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 98
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 155
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 185
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 64
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 40
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "GREECE",
+    "total": 215
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 94
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 96
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 233
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 115
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 89
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 147
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 150
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 146
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 182
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 171
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 105
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 197
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 122
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 127
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 273
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 132
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 89
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 253
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 79
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 103
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 134
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 154
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 92
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 119
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 68
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 73
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "LUXEMBOURG",
+    "total": 108
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 88
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 52
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 134
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 260
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 248
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 323
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 634
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 509
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 239
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 218
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 198
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 251
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 564
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 295
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 161
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 205
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 140
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 108
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 222
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 218
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 186
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 164
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 86
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 201
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 125
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 56
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "EUROPE",
+    "country": "ROMANIA",
+    "total": 39
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 26843
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 33923
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 76663
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 39956
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 42508
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 74212
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 31423
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 64694
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 43507
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 28626
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 65504
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 75805
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 39881
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 30141
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 62398
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 31421
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 55215
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 59261
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 46227
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 63456
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 72200
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 40485
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 73490
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 82927
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 33703
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 26777
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "CHINA",
+    "country": "CHINA",
+    "total": 74127
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 0
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 0
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 0
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 0
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 0
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 200
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 0
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 800
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 0
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 1500
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 0
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 3000
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 4700
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 500
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 900
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 550
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 220
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 75
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 80
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 27
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 10
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 2670
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 420
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 1050
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 2475
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 340
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 1860
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 2307
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 0
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 3310
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "TURKEY",
+    "total": 100
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 26
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 792
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 572
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 310
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 213
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 711
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 125
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 502
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 602
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 330
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 336
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 972
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 305
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 381
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 654
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 179
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 450
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 759
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 317
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 462
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 528
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 340
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 521
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 757
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 320
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 546
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "JAPAN",
+    "total": 1243
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 3
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 0
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 1366
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 72
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 422
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 1435
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 3
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 1647
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 515
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 121
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 750
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 433
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 7
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 349
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 1418
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 1
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 407
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 841
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 188
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 1338
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 699
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 650
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 363
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 1941
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 11
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 6
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 442
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 189
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 168
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 875
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 197
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 173
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 961
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 202
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 104
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 759
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 143
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 566
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 558
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 27
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 152
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 199
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 67
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 76
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 107
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 98
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 133
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 100
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 57
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 21
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 250
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 34
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 85
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "NEW_ZEALAND",
+    "total": 145
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 316
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 1421
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 1051
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 634
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 785
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 678
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 647
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 883
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 743
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 715
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 673
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 1093
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 953
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 1520
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 862
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 523
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 616
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 609
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 642
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 914
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 687
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 875
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 645
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 710
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 202
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "HONG_KONG",
+    "total": 753
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 1891
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 118
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 696
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 4501
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 2829
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 3563
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 1
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 174
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 6025
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 1722
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 4165
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 5293
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 2680
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 2208
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 1349
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 1263
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 3618
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 1252
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 5
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 2222
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 2591
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 30
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 63
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 72
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 28
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 90
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 117
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 51
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 134
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 54
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 58
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 28
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 216
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 104
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 33
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 211
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 105
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 208
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 308
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 174
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 308
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 354
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 61
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 224
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 294
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 0
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 262
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "SINGAPORE",
+    "total": 151
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 35
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 15
+  },
+  {
+    "year": 2023,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 33
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 23
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 35
+  },
+  {
+    "year": 2023,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 33
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 41
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 78
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 36
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 20
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 212
+  },
+  {
+    "year": 2023,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 1312
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 375
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 259
+  },
+  {
+    "year": 2024,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 1009
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 363
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 2,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 636
+  },
+  {
+    "year": 2024,
+    "quarter": 2,
+    "month": 3,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 437
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 1,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 320
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 2,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 438
+  },
+  {
+    "year": 2024,
+    "quarter": 3,
+    "month": 3,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 450
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 1,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 265
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 2,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 273
+  },
+  {
+    "year": 2024,
+    "quarter": 4,
+    "month": 3,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 312
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 1,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 13
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 2,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 443
+  },
+  {
+    "year": 2025,
+    "quarter": 1,
+    "month": 3,
+    "region": "ROW",
+    "country": "MALAYSIA",
+    "total": 171
+  }
+]
