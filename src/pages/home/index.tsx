@@ -137,7 +137,7 @@ const chartData: ChartData<"bar", number[], string> = {
         },
         align: "end",
         anchor: "end",
-        offset: -20,
+        offset: -5,
         clamp: true,
         formatter: () =>
           `YoY ${yoyPercentage.toFixed(1)}%\nQoQ ${qoqPercentage.toFixed(1)}%`,
@@ -156,7 +156,7 @@ const options: ChartOptions<"bar"> = {
   responsive: true,
   elements: {
     bar: {
-      borderWidth: 30,
+      borderWidth: 18,
     },
   },
   plugins: {
@@ -186,7 +186,9 @@ const Home: React.FC = () => (
       flexDirection: "column",
     }}
   >
-    <div style={{ width: 500, height: 500 }}>
+    <br />
+    <br />
+    <div style={{ width: 360 }}>
       <Bar data={chartData} options={options} />
       <p
         style={{
