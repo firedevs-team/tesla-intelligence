@@ -157,10 +157,14 @@ const QuaterlySalesChart: React.FC<QuaterlySalesChartProps> = (
           anchor: "end",
           offset: -5,
           clamp: true,
-          formatter: () =>
-            `${yoyPercentage.toFixed(0)}% YoY\n${qoqPercentage.toFixed(
+          formatter: () => {
+            if (currentTotal === 0) {
+              return "";
+            }
+            return `${yoyPercentage.toFixed(0)}% YoY\n${qoqPercentage.toFixed(
               0
-            )}% QoQ`,
+            )}% QoQ`;
+          },
         },
       },
     ],
@@ -178,6 +182,10 @@ const QuaterlySalesChart: React.FC<QuaterlySalesChartProps> = (
         display: true,
         text: title,
         color: "#e0e0e0",
+        align: "start",
+        padding: {
+          bottom: 30,
+        },
       },
       datalabels: {
         color: "#ffffff", // color por defecto para datalabels si aplica

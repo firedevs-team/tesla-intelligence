@@ -1,6 +1,25 @@
-<svg width="250" height="60" viewBox="0 0 250 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="40" font-family="'Arial Black', Gadget, sans-serif" font-weight="900"
-        font-size="22" fill="white">
-    Tesla Intelligence
-  </text>
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <g fill="white">
+    <!-- Círculo más pequeño, borde fino -->
+    <circle cx="40" cy="40" r="23" fill="none" stroke="white" stroke-width="1" />
+
+    <!-- Logo Tesla, perfectamente centrado -->
+    <g transform="translate(27,27) scale(0.22)">
+      <path d="M61.45,122.36l17.19-96.68c16.39,0,21.55,1.8,22.3,9.13c0,0,10.99-4.1,16.54-12.42 
+      C95.84,12.36,74.1,11.91,74.1,11.91L61.42,27.35l0.03,0L48.76,11.9c0,0-21.74,0.45-43.37,10.48C10.93,30.7,21.93,34.8,21.93,34.8 
+      c0.75-7.33,5.91-9.13,22.19-9.14L61.45,122.36L61.45,122.36L61.45,122.36L61.45,122.36z M61.45,122.36L61.45,122.36L61.45,122.36L61.45,122.36z 
+      M61.44,7.44c17.49-0.13,37.51,2.71,58,11.64c2.74-4.93,3.44-7.11,3.44-7.11C100.48,3.11,79.5,0.08,61.44,0 
+      C43.37,0.08,22.4,3.11,0,11.97c0,0,1,2.68,3.44,7.11C23.93,10.15,43.95,7.31,61.44,7.44L61.44,7.44L61.44,7.44z"/>
+    </g>
+
+    <!-- Texto Tesla -->
+    <text x="80" y="35" font-family="'Arial Black', Gadget, sans-serif" font-weight="900" font-size="28" fill="white">
+      Tesla
+    </text>
+
+    <!-- Texto Intelligence -->
+    <text x="80" y="60" font-family="'Arial Black', Gadget, sans-serif" font-weight="900" font-size="22" fill="white">
+      Intelligence
+    </text>
+  </g>
 </svg>

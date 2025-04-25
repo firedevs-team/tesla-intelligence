@@ -1,4 +1,5 @@
-import { ConfigProvider, Layout, Menu, theme } from "antd";
+import { GithubOutlined } from "@ant-design/icons";
+import { ConfigProvider, Layout, theme } from "antd";
 import { Link, Navigate, Route, Routes } from "react-router";
 import styles from "./App.module.css";
 import logo from "./assets/logo.svg";
@@ -14,7 +15,7 @@ const App: React.FC = () => {
       }}
     >
       <Layout>
-        <Header style={{ display: "flex", alignItems: "center" }}>
+        <Header className={styles.header}>
           <Link to="/">
             <img
               src={logo}
@@ -22,13 +23,23 @@ const App: React.FC = () => {
               className={styles.logo}
             />
           </Link>
-          <Menu
-            theme="dark"
-            mode="horizontal"
-            defaultSelectedKeys={["home"]}
-            items={[]}
-            style={{ flex: 1, minWidth: 0 }}
-          />
+          <div style={{ flex: 1 }} />
+
+          {/* TODO: cambiar por un menu cuando haga falta */}
+          <a
+            href="https://github.com/firedevs-team/tesla-intelligence"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              display: "flex",
+              alignItems: "center",
+              height: "100%",
+              cursor: "pointer",
+              marginRight: "8px",
+            }}
+          >
+            <GithubOutlined style={{ fontSize: "24px", color: "white" }} />
+          </a>
         </Header>
         <Layout>
           <Routes>
