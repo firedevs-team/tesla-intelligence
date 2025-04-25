@@ -127,7 +127,7 @@ const chartData: ChartData<"bar", number[], string> = {
     {
       label: "Sales",
       data: data.map((d) => d.total),
-      backgroundColor: "rgba(75, 192, 192, 1)",
+      backgroundColor: "#4875b4",
       datalabels: {
         display: (ctx) =>
           ctx.chart.data.labels?.[ctx.dataIndex] === quarterToString(current),
@@ -140,7 +140,7 @@ const chartData: ChartData<"bar", number[], string> = {
         offset: -5,
         clamp: true,
         formatter: () =>
-          `YoY ${yoyPercentage.toFixed(1)}%\nQoQ ${qoqPercentage.toFixed(1)}%`,
+          `${yoyPercentage.toFixed(0)}% YoY\n${qoqPercentage.toFixed(0)}% QoQ`,
       },
     },
   ],
@@ -160,18 +160,38 @@ const options: ChartOptions<"bar"> = {
     },
   },
   plugins: {
-    title: { display: true, text: "Tesla Quarterly Sales" },
-    datalabels: {}, // activación global, lo manejamos por dataset
+    title: { display: true, text: "Tesla Quarterly Sales", color: "#e0e0e0" },
+    datalabels: {
+      color: "#ffffff", // color por defecto para datalabels si aplica
+    },
+    legend: {
+      display: true, // 👈 Asegura que se muestre
+      labels: {
+        color: "#cccccc", // Color del texto de leyenda (como "Sales")
+      },
+    },
   },
   scales: {
+    x: {
+      ticks: {
+        color: "#cccccc", // color de las etiquetas del eje X
+      },
+      grid: {
+        color: "rgba(255, 255, 255, 0.08)", // líneas suaves
+      },
+    },
     y: {
       ticks: {
+        color: "#cccccc", // color de las etiquetas del eje Y
         callback: function (value) {
           if (typeof value === "number") {
             return formatThousands(value);
           }
           return value;
         },
+      },
+      grid: {
+        color: "rgba(255, 255, 255, 0.08)", // líneas suaves
       },
     },
   },
