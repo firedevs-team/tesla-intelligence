@@ -6,6 +6,7 @@ import { Chart as ChartJS, ChartData, ChartOptions } from "chart.js";
 import { QuarterReference, SalesRecord } from "../../types";
 import _sales from "../../data/sales-record.json";
 import constants from "../../constants";
+import { NumberFormatter } from "../../lib";
 
 ChartJS.register(ChartDataLabels);
 
@@ -86,13 +87,6 @@ const calcGrowth = (current: number, past: number) =>
 // Helper: convierte quarter a string
 const quarterToString = (quarter: QuarterReference) =>
   `Q${quarter.quarter}-${quarter.year.toString().slice(-2)}`;
-
-// Helper: formatea miles
-const formatThousands = (value: number) => {
-  if (value >= 1000000) return (value / 1000000).toFixed(1) + "M";
-  if (value >= 1000) return (value / 1000).toFixed(1).replace(/\.0$/, "") + "k";
-  return value.toString();
-};
 
 interface QuaterlySalesChartProps {
   title: string;
@@ -208,7 +202,7 @@ const QuaterlySalesChart: React.FC<QuaterlySalesChartProps> = (
           color: "#cccccc", // color de las etiquetas del eje Y
           callback: function (value) {
             if (typeof value === "number") {
-              return formatThousands(value);
+              return NumberFormatter.formatThousands(value);
             }
             return value;
           },

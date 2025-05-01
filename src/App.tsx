@@ -3,7 +3,7 @@ import { ConfigProvider, Layout, theme } from "antd";
 import { Link, Navigate, Route, Routes } from "react-router";
 import styles from "./App.module.css";
 import logo from "./assets/logo.svg";
-import { HomePage } from "./pages";
+import { HomePage, EuropePage } from "./pages";
 const { Header } = Layout;
 
 const App: React.FC = () => {
@@ -44,6 +44,7 @@ const App: React.FC = () => {
         <Layout>
           <Routes>
             <Route index element={<HomePage />} />
+            <Route path="europe" element={<EuropePage />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </Layout>
