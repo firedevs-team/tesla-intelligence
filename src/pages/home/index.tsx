@@ -38,7 +38,7 @@ const WithSeeMore: React.FC<WithSeeMoreProps> = (props) => {
           }}
           onClick={handleClick}
         >
-          See more
+          Ver más
         </Button>
       </div>
       {children}
@@ -61,17 +61,17 @@ const Home: React.FC = () => {
       <br />
       <br />
 
-      <QuaterlySalesChart title="Global 🌎 Quarterly Sales" region="GLOBAL" />
+      <QuaterlySalesChart title="Venta Global 🌎" region="GLOBAL" />
       <br />
-      <QuaterlySalesChart title="China 🇨🇳 Quarterly Sales" region="CHINA" />
+      <QuaterlySalesChart title="Venta China 🇨🇳" region="CHINA" />
       <br />
-      <QuaterlySalesChart title="USA 🇺🇸 Quarterly Sales" region="USA" />
+      <QuaterlySalesChart title="Venta USA 🇺🇸" region="USA" />
       <br />
       <WithSeeMore onClick={() => navigate("/europe")}>
-        <QuaterlySalesChart title="Europe 🇪🇺 Quarterly Sales" region="EUROPE" />
+        <QuaterlySalesChart title="Venta Europa 🇪🇺" region="EUROPE" />
       </WithSeeMore>
       <br />
-      <QuaterlySalesChart title="ROW 🌏 Quarterly Sales" region="ROW" />
+      <QuaterlySalesChart title="Venta Resto del Mundo 🌏" region="ROW" />
       <br />
       <br />
       <br />

@@ -226,7 +226,7 @@ const QuaterlySalesChart: React.FC<QuaterlySalesChartProps> = (
           marginLeft: "10px",
         }}
       >
-        {`Data status: ${percentCollected.toFixed(1)}% of data collected`}
+        {`${percentCollected.toFixed(1)}% de datos recolectados`}
       </p>
     </div>
   );

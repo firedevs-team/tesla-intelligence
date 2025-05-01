@@ -93,7 +93,7 @@ const Europe: React.FC = () => {
     plugins: {
       title: {
         display: true,
-        text: "Europe 🇪🇺 Quarterly Sales",
+        text: "Venta Europa 🇪🇺",
         color: "#e0e0e0",
         align: "start",
         padding: {
