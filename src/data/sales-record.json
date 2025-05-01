@@ -2808,6 +2808,14 @@
     "total": 1209
   },
   {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "PORTUGAL",
+    "total": 302
+  },
+  {
     "year": 2023,
     "quarter": 1,
     "month": 1,
@@ -4794,26 +4802,10 @@
   {
     "year": 2023,
     "quarter": 2,
-    "month": 2,
-    "region": "ROW",
-    "country": "TURKEY",
-    "total": 200
-  },
-  {
-    "year": 2023,
-    "quarter": 2,
     "month": 3,
     "region": "ROW",
     "country": "TURKEY",
     "total": 0
-  },
-  {
-    "year": 2023,
-    "quarter": 2,
-    "month": 3,
-    "region": "ROW",
-    "country": "TURKEY",
-    "total": 800
   },
   {
     "year": 2023,
@@ -4826,26 +4818,10 @@
   {
     "year": 2023,
     "quarter": 3,
-    "month": 1,
-    "region": "ROW",
-    "country": "TURKEY",
-    "total": 1500
-  },
-  {
-    "year": 2023,
-    "quarter": 3,
     "month": 2,
     "region": "ROW",
     "country": "TURKEY",
     "total": 0
-  },
-  {
-    "year": 2023,
-    "quarter": 3,
-    "month": 2,
-    "region": "ROW",
-    "country": "TURKEY",
-    "total": 3000
   },
   {
     "year": 2023,
