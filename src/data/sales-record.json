@@ -208,6 +208,14 @@
     "total": 44835
   },
   {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "USA",
+    "country": "USA",
+    "total": 45875
+  },
+  {
     "year": 2023,
     "quarter": 1,
     "month": 1,
@@ -429,7 +437,7 @@
     "month": 1,
     "region": "EUROPE",
     "country": "AUSTRIA",
-    "total": 124
+    "total": 196
   },
   {
     "year": 2023,
@@ -864,6 +872,14 @@
     "total": 295
   },
   {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FINLAND",
+    "total": 71
+  },
+  {
     "year": 2023,
     "quarter": 1,
     "month": 1,
@@ -1078,6 +1094,14 @@
     "region": "EUROPE",
     "country": "FRANCE",
     "total": 3157
+  },
+  {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "FRANCE",
+    "total": 863
   },
   {
     "year": 2023,
@@ -1728,6 +1752,14 @@
     "total": 333
   },
   {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "IRELAND",
+    "total": 30
+  },
+  {
     "year": 2023,
     "quarter": 1,
     "month": 1,
@@ -2160,6 +2192,14 @@
     "total": 1536
   },
   {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NETHERLANDS",
+    "total": 382
+  },
+  {
     "year": 2023,
     "quarter": 1,
     "month": 1,
@@ -2374,6 +2414,14 @@
     "region": "EUROPE",
     "country": "NORWAY",
     "total": 2211
+  },
+  {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "NORWAY",
+    "total": 976
   },
   {
     "year": 2023,
@@ -3032,6 +3080,14 @@
     "total": 911
   },
   {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWEDEN",
+    "total": 203
+  },
+  {
     "year": 2023,
     "quarter": 1,
     "month": 1,
@@ -3246,6 +3302,14 @@
     "region": "EUROPE",
     "country": "SWITZERLAND",
     "total": 663
+  },
+  {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SWITZERLAND",
+    "total": 226
   },
   {
     "year": 2023,
@@ -5998,6 +6062,14 @@
     "region": "ROW",
     "country": "SOUTH_KOREA",
     "total": 2591
+  },
+  {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "SOUTH_KOREA",
+    "total": 1447
   },
   {
     "year": 2023,
