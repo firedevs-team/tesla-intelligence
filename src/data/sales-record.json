@@ -1536,6 +1536,14 @@
     "total": 241
   },
   {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ICELAND",
+    "total": 75
+  },
+  {
     "year": 2023,
     "quarter": 1,
     "month": 1,
@@ -1974,6 +1982,14 @@
     "region": "EUROPE",
     "country": "ITALY",
     "total": 2217
+  },
+  {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "ITALY",
+    "total": 446
   },
   {
     "year": 2023,
@@ -3744,6 +3760,14 @@
     "total": 1983
   },
   {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "SPAIN",
+    "total": 571
+  },
+  {
     "year": 2023,
     "quarter": 1,
     "month": 1,
@@ -3958,6 +3982,14 @@
     "region": "EUROPE",
     "country": "BELGIUM",
     "total": 958
+  },
+  {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "EUROPE",
+    "country": "BELGIUM",
+    "total": 570
   },
   {
     "year": 2023,
@@ -5470,6 +5502,14 @@
     "region": "ROW",
     "country": "ISRAEL",
     "total": 442
+  },
+  {
+    "year": 2025,
+    "quarter": 2,
+    "month": 1,
+    "region": "ROW",
+    "country": "ISRAEL",
+    "total": 52
   },
   {
     "year": 2023,
